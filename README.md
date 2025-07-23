@@ -46,7 +46,7 @@ This project was developed as part of my learning journey with **Java**, **Sprin
 ### Prerequisites:
 - Node.js and npm installed
 - Java (JDK 17 or later)
-- MySQL running locally
+- Postgresql running locally
 
 
 ### 1. Clone the repository
