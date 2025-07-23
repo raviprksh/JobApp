@@ -65,7 +65,7 @@ npm start
 
 ## Setup Backend
 - Open backend in your IDE
-- Update MySQL credentials in application.properties
+- Update postgresql credentials in application.properties
 - Run the Spring Boot application
 
 ## The app will run on:
