@@ -48,16 +48,30 @@ This project was developed as part of my learning journey with **Java**, **Sprin
 - Java (JDK 17 or later)
 - MySQL running locally
 
-## The app will run on:
-- Frontend: http://localhost:3000
-- Backend: http://localhost:8080
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/raviprksh/JobApp.git
 
+```
 
+## Setup Frontend:
+```bash
+cd JobApp_Frontend
+npm install
+npm start
 
+```
 
+## Setup Backend
+- Open backend in your IDE
+- Update MySQL credentials in application.properties
+- Run the Spring Boot application
 
+## The app will run on:
+- Frontend: http://localhost:3000
+- Backend: http://localhost:8080
+  
 
+# Home_Page:
+<img width="1338" height="593" alt="JobApp_Home_page" src="https://github.com/user-attachments/assets/5fb0f95d-e559-491d-b5be-45232c493c56" />
